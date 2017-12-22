@@ -1,0 +1,8 @@
+bower.json
+README.md
+lib
+test
+build.rb
+index.html
+index.js
+**/.*
